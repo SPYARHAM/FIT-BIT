@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FIT-BIT/static/css/main.8dee1078.css",
+    "main.js": "/FIT-BIT/static/js/main.cdc055bd.js",
+    "static/js/787.bcd0d060.chunk.js": "/FIT-BIT/static/js/787.bcd0d060.chunk.js",
+    "static/media/header.png": "/FIT-BIT/static/media/header.d82c01816b81b7dffb81.png",
+    "index.html": "/FIT-BIT/index.html",
+    "main.8dee1078.css.map": "/FIT-BIT/static/css/main.8dee1078.css.map",
+    "main.cdc055bd.js.map": "/FIT-BIT/static/js/main.cdc055bd.js.map",
+    "787.bcd0d060.chunk.js.map": "/FIT-BIT/static/js/787.bcd0d060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dee1078.css",
+    "static/js/main.cdc055bd.js"
+  ]
+}
