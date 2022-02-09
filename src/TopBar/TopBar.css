@@ -1,0 +1,15 @@
+.navBar {
+    background-color: #222F3E;
+    padding:24px  12px;
+    text-align :  center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 70px;
+  }
+  .navBar img {
+    height: 100px;
+    width: 200px;
+    margin-top: -15px;
+  }
